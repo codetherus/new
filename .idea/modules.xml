@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appiumstarter.iml" filepath="$PROJECT_DIR$/.idea/modules/appiumstarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appiumstarter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/appiumstarter_main.iml" group="appiumstarter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appiumstarter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/appiumstarter_test.iml" group="appiumstarter" />
+    </modules>
+  </component>
+</project>
